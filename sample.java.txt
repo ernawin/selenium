@@ -8,6 +8,7 @@ System.out.print("Enter a number: ");
 
 int number = reader.nextInt();
 
+//added comments
 System.out.println("You entered: " + number);
 
 }
